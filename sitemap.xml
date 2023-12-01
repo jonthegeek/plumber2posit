@@ -25,9 +25,21 @@
     <loc>https://jonthegeek.github.io/plumber2posit/index.html</loc>
   </url>
   <url>
+    <loc>https://jonthegeek.github.io/plumber2posit/reference/cookie_endpoint_httr2.html</loc>
+  </url>
+  <url>
+    <loc>https://jonthegeek.github.io/plumber2posit/reference/cookie_endpoint_simple.html</loc>
+  </url>
+  <url>
+    <loc>https://jonthegeek.github.io/plumber2posit/reference/deploy_pkg_api.html</loc>
+  </url>
+  <url>
     <loc>https://jonthegeek.github.io/plumber2posit/reference/index.html</loc>
   </url>
   <url>
     <loc>https://jonthegeek.github.io/plumber2posit/reference/plumber2posit-package.html</loc>
+  </url>
+  <url>
+    <loc>https://jonthegeek.github.io/plumber2posit/reference/redeploy_pkg_api.html</loc>
   </url>
 </urlset>
