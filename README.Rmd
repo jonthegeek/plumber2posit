@@ -16,6 +16,10 @@ knitr::opts_chunk$set(
 # plumber2posit
 
 <!-- badges: start -->
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![CRAN status](https://www.r-pkg.org/badges/version/plumber2posit)](https://CRAN.R-project.org/package=plumber2posit)
+[![Codecov test coverage](https://codecov.io/gh/jonthegeek/plumber2posit/branch/main/graph/badge.svg)](https://app.codecov.io/gh/jonthegeek/plumber2posit?branch=main)
+[![R-CMD-check](https://github.com/jonthegeek/plumber2posit/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jonthegeek/plumber2posit/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 Deploying APIs wrapped in packages can be tricky, and accessing APIs on 'Posit Cloud' is tricky. This package seeks to alleviate pain points in that process.
